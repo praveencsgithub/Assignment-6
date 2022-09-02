@@ -10,6 +10,6 @@
 
 # Time taken to finish this project is around 3-4 hours.
 
-[Live link for Project-6]()
+[Live link for Project-6](https://dulcet-cendol-e0b430.netlify.app/)
 
 
